@@ -1,0 +1,35 @@
+_repo: When-Scout-Meets-Scout-or-The-Aeroplane-Spy_58709
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Riesenberg, S.H.
+    gutenberg_agent_id: '50111'
+    url: http://www.gutenberg.org/2009/agents/50111
+creator:
+  author:
+    agent_name: Sayler, H. L. (Harry Lincoln)
+    aliases:
+    - Sayler, Harry Lincoln
+    - Lamar, Ashton
+    birthdate: 1863
+    deathdate: 1913
+    gutenberg_agent_id: '2246'
+    url: http://www.gutenberg.org/2009/agents/2246
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/2211
+    - https://en.wikipedia.org/wiki/Harry_Lincoln_Sayler
+description: ''
+gutenberg_issued: '2019-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58709'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'When Scout Meets Scout
+
+  or, The Aeroplane Spy'
+url: http://www.gutenberg.org/ebooks/58709
